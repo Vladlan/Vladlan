@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vladislav Lanskikh</h1>
 <h3 align="center">A passionate fullstack developer from Belarus</h3>
 
-- 🔭 I’m currently working at [EPAM systems Germany](https://www.epam.de/)
+- 🔭 I’m currently working at [Deutsche Bank](https://www.deutsche-bank.de)
 
 - 👯 I’m looking to collaborate on **open source sustainability project**
 
-- 💬 Ask me about **React, Angular, Vue, Nodejs, Typescript, AWS, GCP**
+- 💬 Ask me about **React, Angular, Vue, Typescript, Nodejs, GCP, AWS**
 
 - 📫 How to reach me **vladlan@protonmail.com**
 
